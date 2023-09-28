@@ -1,0 +1,17 @@
+.cart-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 3%;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+}
+
+.cart-item img {
+    max-width: 80px;
+    margin-right: 15px;
+}
+
+.card {
+    max-width: 70%;
+    margin: 0%;
+}
